@@ -1,2 +1,14 @@
 # 2026worldcup-cnmax-pages
-HTML page archive and documentation
+
+静态文件发布目录
+
+这里收集多个独立页面，方便在同一个仓库中管理。
+
+## 输出文件
+
+- 发布产物会保存为 HTML
+- 说明文本会保存在 README
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
